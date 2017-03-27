@@ -1,5 +1,4 @@
 # assignment-7-intelligent-transportation-quit-smoking
-assignment-7-intelligent-transportation-quit-smoking created by GitHub Classroom
 Team: Anh Nguyen, Ganesh Ramani, Navaneeth Chandrasekaran
 
 Paper topic: Improvement of Drug Delivery Routes Through the Adoption of Multi-Operator Evolutionary Algorithms 
